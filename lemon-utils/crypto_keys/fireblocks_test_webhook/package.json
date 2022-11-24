@@ -1,0 +1,16 @@
+{
+  "name": "fireblocks_test_webhook",
+  "version": "1.0.0",
+  "description": "A node js server emulating Fireblocks to test the Kotlin webhook locally",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Santiago (santiago@lemon.me)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "crypto": "^1.0.1",
+    "node-rsa": "^1.1.1"
+  }
+}

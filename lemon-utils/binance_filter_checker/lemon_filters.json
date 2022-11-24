@@ -1,0 +1,876 @@
+[
+    {
+        "symbol": "ETHBTC",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.00010000",
+                "maxQty": "100000.00000000",
+                "stepSize": "0.00010000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "0.00010000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "908.37973288",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "BTCUSDT",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.00001000",
+                "maxQty": "9000.00000000",
+                "stepSize": "0.00001000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "148.68923403",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "ETHUSDT",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.00010000",
+                "maxQty": "9000.00000000",
+                "stepSize": "0.00010000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "1931.72769969",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "ADABTC",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.10000000",
+                "maxQty": "90000000.00000000",
+                "stepSize": "0.10000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "0.00010000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "1449358.71884615",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "ADAETH",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.10000000",
+                "maxQty": "90000000.00000000",
+                "stepSize": "0.10000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "0.00500000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "539682.95353846",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "ADAUSDT",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.10000000",
+                "maxQty": "900000.00000000",
+                "stepSize": "0.10000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "4708347.23528055",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "DAIUSDT",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.01000000",
+                "maxQty": "900000.00000000",
+                "stepSize": "0.01000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "452151.67404167",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "BTCDAI",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.00001000",
+                "maxQty": "9000.00000000",
+                "stepSize": "0.00001000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "15.97033367",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "ETHDAI",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.00010000",
+                "maxQty": "90000.00000000",
+                "stepSize": "0.00010000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "178.07749492",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "USDTDAI",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.10000000",
+                "maxQty": "900000.00000000",
+                "stepSize": "0.10000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "1894530.01312264",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "UNIBTC",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.01000000",
+                "maxQty": "90000000.00000000",
+                "stepSize": "0.01000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "0.00010000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "23102.76048908",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "UNIUSDT",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.01000000",
+                "maxQty": "90000.00000000",
+                "stepSize": "0.01000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "144586.99113619",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "SOLETH",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.00100000",
+                "maxQty": "92141578.00000000",
+                "stepSize": "0.00100000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "0.00500000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "3971.41873940",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "SOLUSDT",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.01000000",
+                "maxQty": "90000.00000000",
+                "stepSize": "0.01000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "144586.99113619",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "SOLBTC",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.01000000",
+                "maxQty": "90000000.00000000",
+                "stepSize": "0.01000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "0.00010000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "6221.78686587",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "SLPUSDT",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "1.00000000",
+                "maxQty": "90000000.00000000",
+                "stepSize": "1.00000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "30076656.47255038",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "SLPETH",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "1.00000000",
+                "maxQty": "90000000.00000000",
+                "stepSize": "1.00000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "0.00500000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "4389017.64767199",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "AXSETH",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.00100000",
+                "maxQty": "92141578.00000000",
+                "stepSize": "0.00100000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "0.00500000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "1669.96783958",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "AXSUSDT",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.01000000",
+                "maxQty": "900000.00000000",
+                "stepSize": "0.01000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "18472.13644197",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "AXSBTC",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.01000000",
+                "maxQty": "90000000.00000000",
+                "stepSize": "0.01000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "0.00010000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "3945.60521890",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "SANDUSDT",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "1.00000000",
+                "maxQty": "9000000.00000000",
+                "stepSize": "1.00000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "433986.93189715",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "SANDBTC",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "1.00000000",
+                "maxQty": "90000000.00000000",
+                "stepSize": "1.00000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "0.00010000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "241725.68519805",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "MANAUSDT",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "1.00000000",
+                "maxQty": "900000.00000000",
+                "stepSize": "1.00000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "589472.68936761",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "MANAETH",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "1.00000000",
+                "maxQty": "90000000.00000000",
+                "stepSize": "1.00000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "0.00500000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "82336.60180681",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "MANABTC",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "1.00000000",
+                "maxQty": "90000000.00000000",
+                "stepSize": "1.00000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "0.00010000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "301573.84016678",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "ALGOBTC",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "1.00000000",
+                "maxQty": "90000000.00000000",
+                "stepSize": "1.00000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "0.00010000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "286770.72986111",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "ALGOUSDT",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "1.00000000",
+                "maxQty": "922327.00000000",
+                "stepSize": "1.00000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "698948.87500000",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "MATICBTC",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.10000000",
+                "maxQty": "90000000.00000000",
+                "stepSize": "0.10000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "0.00010000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "602575.58472222",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "MATICUSDT",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.10000000",
+                "maxQty": "9000000.00000000",
+                "stepSize": "0.10000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "2378426.72805555",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "MATICETH",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.10000000",
+                "maxQty": "92141578.00000000",
+                "stepSize": "0.10000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "0.00500000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "103363.30166666",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "DOTBTC",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.01000000",
+                "maxQty": "90000000.00000000",
+                "stepSize": "0.01000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "0.00010000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "66584.26098611",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "DOTUSDT",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.01000000",
+                "maxQty": "90000.00000000",
+                "stepSize": "0.01000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "138618.02832638",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "DOTETH",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.01000000",
+                "maxQty": "92141578.00000000",
+                "stepSize": "0.01000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "0.00500000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "4978.71012500",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "USDCUSDT",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "1.00000000",
+                "maxQty": "9000000.00000000",
+                "stepSize": "1.00000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "9222449.00000000",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "BTCUSDC",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.00001000",
+                "maxQty": "9000.00000000",
+                "stepSize": "0.00001000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "65.38664317",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "ETHUSDC",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.00010000",
+                "maxQty": "90000.00000000",
+                "stepSize": "0.00010000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "574.05882805",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "ADAUSDC",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.10000000",
+                "maxQty": "900000.00000000",
+                "stepSize": "0.10000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "432367.92496183",
+                "stepSize": "0.00000000"
+            }
+        ]
+    },
+    {
+        "symbol": "SOLUSDC",
+        "filters": [
+            {
+                "filterType": "LOT_SIZE",
+                "minQty": "0.01000000",
+                "maxQty": "922327.00000000",
+                "stepSize": "0.01000000"
+            },
+            {
+                "filterType": "MIN_NOTIONAL",
+                "minNotional": "10.00000000",
+                "applyToMarket": true,
+                "avgPriceMins": 5
+            },
+            {
+                "filterType": "MARKET_LOT_SIZE",
+                "minQty": "0.00000000",
+                "maxQty": "2534.20184850",
+                "stepSize": "0.00000000"
+            }
+        ]
+    }
+]
