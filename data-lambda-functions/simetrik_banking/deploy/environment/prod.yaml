@@ -1,0 +1,3 @@
+environment:
+  - key: CREDENTIALS_SECRET_NAME
+    value: gp_sftp_data
